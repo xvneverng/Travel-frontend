@@ -1,0 +1,18 @@
+{
+  "name": "travel-guide-vue-frontend",
+  "version": "1.0.0",
+  "description": "沿途路书 Vue3 前端（基于后端接口）",
+  "scripts": {
+    "dev": "vite --config vite.config.mjs",
+    "build": "vite build --config vite.config.mjs",
+    "preview": "vite preview --config vite.config.mjs"
+  },
+  "dependencies": {
+    "vue": "^3.3.0",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.2",
+    "vite": "^5.0.0"
+  }
+}
